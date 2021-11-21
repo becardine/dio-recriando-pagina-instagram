@@ -1,6 +1,6 @@
-# Recriando a página inicial do Instagram
+# Bootcamp HTML Web Developer - DIO
 
-## Bootcamp HTML Web Developer - DIO
+## Recriando a página inicial do Instagram
 
 ### Screenshot 
 
@@ -12,4 +12,4 @@
 
 ![](img/screenshot-celular.png)
 
-# :point_right: [becardine](https://www.linkedin.com/in/becardine)
+#### :point_right: [becardine](https://www.linkedin.com/in/becardine)
