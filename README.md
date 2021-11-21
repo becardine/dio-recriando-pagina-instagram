@@ -12,6 +12,4 @@
 
 ![](img/screenshot-celular.png)
 
-#
-
-:point_right: [becardine](https://www.linkedin.com/in/becardine)
+# :point_right: [becardine](https://www.linkedin.com/in/becardine)
