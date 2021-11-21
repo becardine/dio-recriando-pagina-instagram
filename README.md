@@ -12,6 +12,6 @@
 
 ![](img/screenshot-celular.png)
 
-##
+#
 
-:rainbow: [becardine](https://www.linkedin.com/in/becardine)
+:point_right: [becardine](https://www.linkedin.com/in/becardine)
